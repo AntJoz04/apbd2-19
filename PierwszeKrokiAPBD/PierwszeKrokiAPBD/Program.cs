@@ -19,9 +19,11 @@ static int CalculateMax(int[] values)
     {
         if (value > tmp)
         {
-            
+            tmp = value;
         }
     }
+
+    return tmp;
 }
 
 
