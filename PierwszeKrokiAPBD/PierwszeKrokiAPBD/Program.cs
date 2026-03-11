@@ -3,3 +3,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Coś tam zmieniam");
 Console.WriteLine("Feature");
+Console.WriteLine("Feature2");
