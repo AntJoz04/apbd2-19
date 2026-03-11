@@ -31,7 +31,10 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("ostatnie");
 
 
-
+static int CalculateMin(int[] values)
+{
+    return 0;
+}
 
 
 
