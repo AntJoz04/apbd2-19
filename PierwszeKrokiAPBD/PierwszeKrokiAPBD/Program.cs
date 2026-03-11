@@ -13,6 +13,20 @@ static double CalculateAverage(int[] values)
 }
 Console.WriteLine("cośtam zmieniam");
 
+static int CalculateMax(int[] values)
+{
+    int tmp = values[0];
+    foreach (int value in values)
+    {
+        if (value > tmp)
+        {
+            tmp = value;
+        }
+    }
+
+    return tmp;
+}
+
 
 
 
