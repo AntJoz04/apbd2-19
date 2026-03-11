@@ -15,16 +15,16 @@ Console.WriteLine("cośtam zmieniam");
 
 static int CalculateMax(int[] values)
 {
-    int tmp = values[0];
+    int tomp = values[0];
     foreach (int value in values)
     {
-        if (value > tmp)
+        if (value > tomp)
         {
-            tmp = value;
+            tomp = value;
         }
     }
 
-    return tmp;
+    return tomp;
 }
 Console.WriteLine("casdadasdsadasdasda");
 Console.WriteLine("Hello, World!");
