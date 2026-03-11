@@ -42,6 +42,7 @@ static int CalculateMin(int[] values)
             tmp = value;
         }
     }
+    return tmp;
         
 }
 
