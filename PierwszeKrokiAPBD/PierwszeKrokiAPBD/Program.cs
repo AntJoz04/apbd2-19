@@ -32,7 +32,10 @@ Console.WriteLine("ostatnie");
 Console.WriteLine("zmieniam by zrobić później Rebase");
 
 
-
+static int CalculateMin(int[] values)
+{
+    return 0;
+}
 
 
 
