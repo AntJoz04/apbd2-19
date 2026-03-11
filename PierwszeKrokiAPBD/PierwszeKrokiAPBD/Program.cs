@@ -11,6 +11,7 @@ static double CalculateAverage(int[] values)
     }
     return sum / values.Length;
 }
+Console.WriteLine("cośtam zmieniam");
 
 
 
