@@ -27,6 +27,8 @@ static int CalculateMax(int[] values)
     return tmp;
 }
 Console.WriteLine("casdadasdsadasdasda");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("ostatnie");
 
 
 
