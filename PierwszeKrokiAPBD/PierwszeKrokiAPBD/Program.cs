@@ -29,6 +29,7 @@ static int CalculateMax(int[] values)
 Console.WriteLine("casdadasdsadasdasda");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("ostatnie");
+Console.WriteLine("zmieniam by zrobić później Rebase");
 
 
 
